@@ -5,6 +5,7 @@ services:
     - "@service_container"
     - "@jsonrpc.controller_name_parser"
     - "@?logger"
+    public: true
 
   jsonrpc.view.notification_response:
     class: Bankiru\Api\JsonRpc\Listener\NotificationResponseListener

@@ -1,5 +1,5 @@
 {
-  "name": "bankiru/jsonrpc-server-bundle",
+  "name": "dimkabelkov/jsonrpc-server-bundle",
   "description": "JSON-RPC server symfony bundle",
   "minimum-stability": "stable",
   "license": "MIT",
